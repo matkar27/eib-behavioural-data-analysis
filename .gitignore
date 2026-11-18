@@ -1,0 +1,16 @@
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# Original or confidential data
+data/original/
+data/raw/
+data/confidential/
+
+# Excel source files
+*.xlsx
+*.xls
